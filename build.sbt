@@ -4,7 +4,7 @@ version := "2.0-SNAPSHOT"
 
 organization := "org.scalanlp"
 
-scalaVersion := "2.11.8"
+scalaVersion := "2.11.11"
 
 licenses := Seq("Apache-2.0" -> url("http://www.apache.org/licenses/LICENSE-2.0"))
 
