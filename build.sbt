@@ -13,7 +13,7 @@ licenses := Seq("Apache-2.0" -> url("http://www.apache.org/licenses/LICENSE-2.0"
 libraryDependencies ++= Seq(
   "org.scala-graph" %% "graph-core" % "1.11.4",
   "org.rogach" %% "scallop" % "2.0.6",
-  "org.scalatest" % "scalatest_2.10" % "1.9.1" % "test"
+  "org.scalatest" % "scalatest_2.10" % "3.0.3" % "test"
 )
 
 enablePlugins(JavaAppPackaging)
